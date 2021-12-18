@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Crud Sqlite Dasar</string>
+    <string-array name="dataProdi">
+        <item> : : PILIH PROGRAN STUDI : : </item>
+        <item> Pendidikan Agama Islam </item>
+        <item> Ilmu Hukum </item>
+        <item> Pendidikan Guru Sekolah Dasar </item>
+        <item> Pendidikan Bimbingan Konseling </item>
+        <item> Pendidikan Jasmani dan Kesehatan Rekreasi </item>
+        <item> Pendidikan Fisika </item>
+        <item> Teknik Informatika </item>
+        <item> Sistem Informasi </item>
+        <item> Akuntansi </item>
+        <item> Ekonomi Syariah </item>
+    </string-array>
+</resources>
